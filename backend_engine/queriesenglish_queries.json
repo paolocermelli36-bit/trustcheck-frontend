@@ -1,0 +1,11 @@
+{
+    "patterns": [
+        "{name} scam",
+        "{name} fraud",
+        "{name} lawsuit",
+        "{name} bankruptcy",
+        "{name} investigation",
+        "{name} financial crime",
+        "{name} legal issues"
+    ]
+}

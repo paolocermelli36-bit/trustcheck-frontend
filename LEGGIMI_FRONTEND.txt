@@ -1,0 +1,10 @@
+FRONTEND IN USO (UNICO)
+Percorso: C:\Users\paolo\Desktop\microbo_reputation_app
+
+Per build web:
+1) cd C:\Users\paolo\Desktop\microbo_reputation_app
+2) flutter build web --release
+3) deploy cartella build\web su Netlify (app.trustcheckscan.com)
+
+Backend usato:
+- TrustCheck_BACKEND (Render: https://trustcheck-api.onrender.com)

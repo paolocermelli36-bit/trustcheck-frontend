@@ -1,0 +1,11 @@
+{
+    "patterns": [
+        "{name} scandalo",
+        "{name} truffa",
+        "{name} fallimento",
+        "{name} indagine",
+        "{name} frode",
+        "{name} crimine finanziario",
+        "{name} problemi legali"
+    ]
+}
