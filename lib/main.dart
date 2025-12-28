@@ -17,7 +17,7 @@ class TrustCheckApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         useMaterial3: false,
       ),
-      home: const TrustCheckFormScreen(),
+      home: const HomeScreen(),
     );
   }
 }
